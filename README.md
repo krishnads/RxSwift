@@ -4,29 +4,19 @@
 
 ### **# What you will learn from this repository?**
 
+- [ ] Understanding functional programming and RxSwift
+- [ ] Observables
+- [ ] Subjects
+- [ ] Implementing photo filter app using RxSwift
+- [ ] Filtering operators
+- [ ] Todo list app using filtering operators
+- [ ] Transforming operators
+- [ ] Building news app using transforming operators
+- [ ] Combining operators
+- [ ] Beginning RxCocoa
+- [ ] MVVM with RxSwift
 
 
-Understanding functional programming and RxSwift
-
-Observables
-
-Subjects
-
-Implementing photo filter app using RxSwift
-
-Filtering operators
-
-Todo list app using filtering operators
-
-Transforming operators
-
-Building news app using transforming operators
-
-Combining operators
-
-Beginning RxCocoa
-
-MVVM with RxSwift
 
 ### ====================
 ### **Contact Me:**
